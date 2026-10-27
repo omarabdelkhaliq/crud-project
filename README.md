@@ -2,6 +2,10 @@
 
 A web application for managing products with CRUD operations using a simple and interactive interface.
 
+## 📸 Screenshot
+
+![CRUD Project Screenshot](./crud.png)
+
 ## 🚀 Live Demo
 
 [View the Live Demo](https://omarabdelkhaliq.github.io/crud-project/)
